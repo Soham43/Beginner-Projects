@@ -5,7 +5,7 @@ from PIL import Image, ImageTk
 # Creating top level widget
 root = tkinter.Tk()
 root.geometry("500x500") 
-root.title("Roll The Damn Dice")
+root.title("Roll The Dice")
 
 # Adding labels into frames
 BlankLine = tkinter.Label(root, text="")
